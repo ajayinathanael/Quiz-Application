@@ -1,0 +1,16 @@
+html first
+css next 
+js last
+
+JS
+select html elements: 
+question index: 0 start of array ele
+
+showquestions method{
+    question heading
+    questions from the data
+
+    selectAnswer method{
+        
+    }
+}
